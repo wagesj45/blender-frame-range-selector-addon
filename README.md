@@ -3,7 +3,7 @@ This addon for [Blender](https://www.blender.org/) adds the ability to set the f
 
 ## Installation
 
-TODO
+Download the addon from the [latest release](https://github.com/wagesj45/blender-frame-range-selector-addon/releases/latest) page. Open Blender and select `Edit` > `Preferences` > `Add-ons`. Click `Install` and select the release zip file that you downloaded. Finally, enable the addon by selecting the checkbox next to the addon's name. Finally, click the hamburger icon and select `Save Preferences`.
 
 ## Use
 
