@@ -9,6 +9,8 @@ Download the addon from the [latest release](https://github.com/wagesj45/blender
 
 A `Set Frame Range` button is added to the `Strip` pannel in the tool menu in the `Sequencer` editor workspace. Clicking it will set the scene's `Start Frame` and `End Frame` to be same as the selected strip.
 
+![Image](example.png)
+
 ## Credit
 
 This addon was created using the [Serpens](https://blendermarket.com/products/serpens) Visual Scripting addon. Many thanks to [Joshua Knauber](https://blendermarket.com/creators/joshua-knauber)
